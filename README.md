@@ -11,3 +11,6 @@ https://www.epa.gov/system/files/documents/2022-07/LOM%20NLA%202022%20Version1.1
 
 Link to Phillips et al. 2008
 https://link.springer.com/article/10.1007/s10452-008-9180-0
+
+Link to signup sheet for Exercises in Data
+https://docs.google.com/spreadsheets/d/1KDqZ9YwBK4xlAcdP_OvB9o3GU6IxInGQn_lvFFG2ILA/edit?usp=sharing
